@@ -1,3 +1,2 @@
 Hello Dr. Beatrice, I have managed to install Python Version 3.13 (64 bit).
-
-Thanks.
+Thanks
